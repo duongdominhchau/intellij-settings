@@ -1,0 +1,18 @@
+<application>
+  <component name="GraziConfig">
+    <option name="userDisabledRules">
+      <set>
+        <option value="ARTICLE_MISSING" />
+      </set>
+    </option>
+    <option name="suppressingContext">
+      <SuppressingContext>
+        <option name="suppressed">
+          <set>
+            <option value="for CORS," />
+          </set>
+        </option>
+      </SuppressingContext>
+    </option>
+  </component>
+</application>
